@@ -5,6 +5,9 @@
   "authors": [
     "Kiko Beats <josefrancisco.verdu@gmail.com>"
   ],
+  "devDependencies": {
+    "parrotjs": "*"
+  },
   "homepage": "https://github.com/parrotjs/parrot-boilerplate",
   "ignore": [
     "**/.*",
@@ -16,8 +19,5 @@
   "keywords": [],
   "license": "MIT",
   "main": "dist/parrot-boilerplate.js",
-  "repository": "parrotjs/parrot-boilerplate",
-  "devDependencies": {
-    "parrotjs": "*"
-  },
+  "repository": "parrotjs/parrot-boilerplate"
 }
