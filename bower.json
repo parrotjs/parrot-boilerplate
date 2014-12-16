@@ -16,5 +16,8 @@
   "keywords": [],
   "license": "MIT",
   "main": "dist/parrot-boilerplate.js",
-  "repository": "parrotjs/parrot-boilerplate"
+  "repository": "parrotjs/parrot-boilerplate",
+  "devDependencies": {
+    "parrotjs": "*"
+  },
 }
