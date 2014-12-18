@@ -7,8 +7,7 @@
 
 ## Browser Compatibility
 
-[![browser support](https://ci.testling.com/parrotjs/parrotjs.png)
-](https://ci.testling.com/parrotjs/parrotjs)
+[![browser support](https://ci.testling.com/parrotjs/parrotjs.png)](https://ci.testling.com/parrotjs/parrotjs)
 
 ## Install
 
