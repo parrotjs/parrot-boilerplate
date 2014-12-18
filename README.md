@@ -13,7 +13,7 @@
 ## Install
 
 ```bash
-npm install myModule --save
+bower install myModule --save
 ```
 
 ## Get Started
