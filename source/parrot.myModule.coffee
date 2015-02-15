@@ -1,0 +1,2 @@
+do ->
+  # do something awesome
